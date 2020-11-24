@@ -1,2 +1,2 @@
-# todo_7.github.io
+# todo_7
 training lesson my_1
