@@ -1,2 +1,2 @@
-# paul76546.github.io
+# todo_7.github.io
 training lesson my_1
